@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Если вы ссылаетесь на этот проект, используйте эти данные."
+title: "Legal AI Corpus: оцифровка библиотеки Национального юридического университета имени Ярослава Мудрого"
+abstract: "Оцифровка 26 000 редких юридических изданий и сборка корпуса для обучения юридических моделей."
+type: dataset
+authors:
+  - family-names: "Петрик"
+    given-names: "Сергей"
+    alias: "sergeipetryk"
+    website: "https://sergeipetryk.com/"
+    city: "Дубай"
+    country: "AE"
+url: "https://github.com/sergeipetryk/legal-ai-corpus"
+repository-code: "https://github.com/sergeipetryk/legal-ai-corpus"
+license: CC-BY-4.0
+date-released: "2026-09-16"
+keywords:
+  - legal AI
+  - corpus
+  - digitization
+  - legal tech
