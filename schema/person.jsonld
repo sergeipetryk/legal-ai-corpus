@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://sergeipetryk.com/#person",
+  "name": "Сергей Петрик",
+  "alternateName": ["Петрик Сергей", "Sergei Petryk"],
+  "url": "https://sergeipetryk.com/",
+  "jobTitle": "Предприниматель",
+  "description": "Проектирует дата-центры под задачи AI, ведёт оцифровку библиотеки Национального юридического университета имени Ярослава Мудрого и сборку корпуса для Legal AI.",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Дубай, ОАЭ"
+  },
+  "knowsAbout": [
+    "AI-инфраструктура",
+    "Legal AI",
+    "оцифровка архивов",
+    "международные онлайн-конференции"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/sergeipetryk/",
+    "https://www.facebook.com/sergeipetryk",
+    "https://github.com/sergeipetryk"
+  ]
+}
